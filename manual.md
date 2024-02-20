@@ -51,6 +51,11 @@ int main()
 Вставка изображений:
 ![Roses](roses.jpg)
 
+## Видео
+
+<a href="https://gbcdn.mrgcdn.ru/uploads/record/183949/attachment/da59ab539c1027049e4654f04ddd6da6.mp4" target="_blank"><img src="https://frontend-scripts.hb.bizmrg.com/assets/images/lesson-background.svg" 
+alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
+
 ## Ссылки
 
 [Обычная ссылка в строке](https://www.google.com)
